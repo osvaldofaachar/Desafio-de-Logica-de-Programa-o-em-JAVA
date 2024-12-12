@@ -1,4 +1,4 @@
-package aulas;
+package aulas.variaveis;
 
 import java.util.Scanner;
 
